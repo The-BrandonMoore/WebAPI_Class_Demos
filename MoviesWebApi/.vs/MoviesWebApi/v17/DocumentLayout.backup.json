@@ -5,10 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{85A0139B-C2B9-41D1-9A62-9C5463013BFA}|MoviesWebApi\\MoviesWebApi.csproj|c:\\repos\\maximum-bc-20240819\\webapis\\classdemos\\movieswebapi\\movieswebapi\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85A0139B-C2B9-41D1-9A62-9C5463013BFA}|MoviesWebApi\\MoviesWebApi.csproj|solutionrelative:movieswebapi\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85A0139B-C2B9-41D1-9A62-9C5463013BFA}|MoviesWebApi\\MoviesWebApi.csproj|c:\\repos\\maximum-bc-20240819\\webapis\\classdemos\\movieswebapi\\movieswebapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85A0139B-C2B9-41D1-9A62-9C5463013BFA}|MoviesWebApi\\MoviesWebApi.csproj|solutionrelative:movieswebapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,22 +32,9 @@
               "RelativeDocumentMoniker": "MoviesWebApi\\Controllers\\MovieController.cs",
               "ToolTip": "C:\\repos\\maximum-bc-20240819\\WebAPIs\\ClassDemos\\MoviesWebApi\\MoviesWebApi\\Controllers\\MovieController.cs",
               "RelativeToolTip": "MoviesWebApi\\Controllers\\MovieController.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAQwCkAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-19T18:48:44.707Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\repos\\maximum-bc-20240819\\WebAPIs\\ClassDemos\\MoviesWebApi\\MoviesWebApi\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "MoviesWebApi\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\repos\\maximum-bc-20240819\\WebAPIs\\ClassDemos\\MoviesWebApi\\MoviesWebApi\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "MoviesWebApi\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T18:17:13.073Z",
               "EditorCaption": ""
             }
           ]

@@ -23,3 +23,4 @@ C:\repos\maximum-bc-20240819\WebAPIs\ClassDemos\MoviesWebApi\MoviesWebApi\obj\De
 C:\repos\maximum-bc-20240819\WebAPIs\ClassDemos\MoviesWebApi\MoviesWebApi\obj\Debug\net8.0\MoviesWebApi.pdb
 C:\repos\maximum-bc-20240819\WebAPIs\ClassDemos\MoviesWebApi\MoviesWebApi\obj\Debug\net8.0\MoviesWebApi.genruntimeconfig.cache
 C:\repos\maximum-bc-20240819\WebAPIs\ClassDemos\MoviesWebApi\MoviesWebApi\obj\Debug\net8.0\ref\MoviesWebApi.dll
+C:\repos\maximum-bc-20240819\WebAPIs\ClassDemos\MoviesWebApi\MoviesWebApi\obj\Debug\net8.0\MoviesWebApi.sourcelink.json

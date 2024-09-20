@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\MusicAPI_PracticeProject.props" />
+</Project>
