@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DemoWebAPIEFSalesDB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a81e231e212dfa545e1b87f0ba3a027c06857e9f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4614da8a3c337dd2405151461a70544ff3ec002")]
 [assembly: System.Reflection.AssemblyProductAttribute("DemoWebAPIEFSalesDB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DemoWebAPIEFSalesDB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
