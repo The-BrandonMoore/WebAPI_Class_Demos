@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "C:\\repos\\maximum-bc-20240819\\WebAPIs\\ClassDemos\\WebAPIEFBmdb\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2DC6732D-FB64-4945-A571-67538532E3FF}|WebAPIEFBmdb\\WebAPIEFBmdb.csproj|c:\\repos\\maximum-bc-20240819\\webapis\\classdemos\\webapiefbmdb\\webapiefbmdb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2DC6732D-FB64-4945-A571-67538532E3FF}|WebAPIEFBmdb\\WebAPIEFBmdb.csproj|solutionrelative:webapiefbmdb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2DC6732D-FB64-4945-A571-67538532E3FF}|WebAPIEFBmdb\\WebAPIEFBmdb.csproj|c:\\repos\\maximum-bc-20240819\\webapis\\classdemos\\webapiefbmdb\\webapiefbmdb\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2DC6732D-FB64-4945-A571-67538532E3FF}|WebAPIEFBmdb\\WebAPIEFBmdb.csproj|solutionrelative:webapiefbmdb\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2DC6732D-FB64-4945-A571-67538532E3FF}|WebAPIEFBmdb\\WebAPIEFBmdb.csproj|c:\\repos\\maximum-bc-20240819\\webapis\\classdemos\\webapiefbmdb\\webapiefbmdb\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2DC6732D-FB64-4945-A571-67538532E3FF}|WebAPIEFBmdb\\WebAPIEFBmdb.csproj|solutionrelative:webapiefbmdb\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2DC6732D-FB64-4945-A571-67538532E3FF}|WebAPIEFBmdb\\WebAPIEFBmdb.csproj|c:\\repos\\maximum-bc-20240819\\webapis\\classdemos\\webapiefbmdb\\webapiefbmdb\\controllers\\actorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2DC6732D-FB64-4945-A571-67538532E3FF}|WebAPIEFBmdb\\WebAPIEFBmdb.csproj|solutionrelative:webapiefbmdb\\controllers\\actorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2DC6732D-FB64-4945-A571-67538532E3FF}|WebAPIEFBmdb\\WebAPIEFBmdb.csproj|c:\\repos\\maximum-bc-20240819\\webapis\\classdemos\\webapiefbmdb\\webapiefbmdb\\models\\credit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DC6732D-FB64-4945-A571-67538532E3FF}|WebAPIEFBmdb\\WebAPIEFBmdb.csproj|solutionrelative:webapiefbmdb\\models\\credit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,54 +26,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\repos\\maximum-bc-20240819\\WebAPIs\\ClassDemos\\WebAPIEFBmdb\\WebAPIEFBmdb\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "WebAPIEFBmdb\\WeatherForecast.cs",
-              "ToolTip": "C:\\repos\\maximum-bc-20240819\\WebAPIs\\ClassDemos\\WebAPIEFBmdb\\WebAPIEFBmdb\\WeatherForecast.cs",
-              "RelativeToolTip": "WebAPIEFBmdb\\WeatherForecast.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T02:03:10.01Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\repos\\maximum-bc-20240819\\WebAPIs\\ClassDemos\\WebAPIEFBmdb\\WebAPIEFBmdb\\Program.cs",
-              "RelativeDocumentMoniker": "WebAPIEFBmdb\\Program.cs",
-              "ToolTip": "C:\\repos\\maximum-bc-20240819\\WebAPIs\\ClassDemos\\WebAPIEFBmdb\\WebAPIEFBmdb\\Program.cs",
-              "RelativeToolTip": "WebAPIEFBmdb\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAbAAAAAAAAAA==",
+              "Title": "Credit.cs",
+              "DocumentMoniker": "C:\\repos\\maximum-bc-20240819\\WebAPIs\\ClassDemos\\WebAPIEFBmdb\\WebAPIEFBmdb\\Models\\Credit.cs",
+              "RelativeDocumentMoniker": "WebAPIEFBmdb\\Models\\Credit.cs",
+              "ToolTip": "C:\\repos\\maximum-bc-20240819\\WebAPIs\\ClassDemos\\WebAPIEFBmdb\\WebAPIEFBmdb\\Models\\Credit.cs",
+              "RelativeToolTip": "WebAPIEFBmdb\\Models\\Credit.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wBwAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T02:02:40.936Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MoviesController.cs",
-              "DocumentMoniker": "C:\\repos\\maximum-bc-20240819\\WebAPIs\\ClassDemos\\WebAPIEFBmdb\\WebAPIEFBmdb\\Controllers\\MoviesController.cs",
-              "RelativeDocumentMoniker": "WebAPIEFBmdb\\Controllers\\MoviesController.cs",
-              "ToolTip": "C:\\repos\\maximum-bc-20240819\\WebAPIs\\ClassDemos\\WebAPIEFBmdb\\WebAPIEFBmdb\\Controllers\\MoviesController.cs",
-              "RelativeToolTip": "WebAPIEFBmdb\\Controllers\\MoviesController.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T01:57:50.724Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ActorsController.cs",
-              "DocumentMoniker": "C:\\repos\\maximum-bc-20240819\\WebAPIs\\ClassDemos\\WebAPIEFBmdb\\WebAPIEFBmdb\\Controllers\\ActorsController.cs",
-              "RelativeDocumentMoniker": "WebAPIEFBmdb\\Controllers\\ActorsController.cs",
-              "ToolTip": "C:\\repos\\maximum-bc-20240819\\WebAPIs\\ClassDemos\\WebAPIEFBmdb\\WebAPIEFBmdb\\Controllers\\ActorsController.cs",
-              "RelativeToolTip": "WebAPIEFBmdb\\Controllers\\ActorsController.cs",
-              "ViewState": "AgIAAGsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T01:57:22.678Z",
+              "WhenOpened": "2024-09-23T16:00:50.503Z",
               "EditorCaption": ""
             }
           ]

@@ -23,9 +23,9 @@ public partial class Credit
 
     [ForeignKey("ActorId")]
     [InverseProperty("Credits")]
-    public virtual Actor Actor { get; set; } = null!;
+    public virtual Actor? Actor { get; set; } = null!;
 
     [ForeignKey("MovieId")]
     [InverseProperty("Credits")]
-    public virtual Movie Movie { get; set; } = null!;
+    public virtual Movie? Movie { get; set; } = null!;
 }

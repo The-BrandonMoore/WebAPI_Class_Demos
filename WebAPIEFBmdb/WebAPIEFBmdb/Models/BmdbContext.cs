@@ -6,9 +6,9 @@ namespace WebAPIEFBmdb.Models;
 
 public partial class BmdbContext : DbContext
 {
-    public BmdbContext()
-    {
-    }
+    //public BmdbContext()
+    //{
+    //}
 
     public BmdbContext(DbContextOptions<BmdbContext> options)
         : base(options)

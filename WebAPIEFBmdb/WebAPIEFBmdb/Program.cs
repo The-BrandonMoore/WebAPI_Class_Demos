@@ -11,8 +11,7 @@ namespace WebAPIEFBmdb
 
             // Add services to the container.
             builder.Services.AddDbContext<BmdbContext>(
-                options => options.UseSqlServer(builder.Configuration.GetConnectionString("BmdbConnectionString"))
-                );
+                options => options.UseSqlServer(builder.Configuration.GetConnectionString("BmdbConnectionString")));
 
             builder.Services.AddControllers();
 

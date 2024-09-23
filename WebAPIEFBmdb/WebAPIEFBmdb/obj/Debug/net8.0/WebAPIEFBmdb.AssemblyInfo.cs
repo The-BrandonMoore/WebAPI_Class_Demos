@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebAPIEFBmdb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4614da8a3c337dd2405151461a70544ff3ec002")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a8dcc3b6899fad03c59741216abbdb48ba28594a")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebAPIEFBmdb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebAPIEFBmdb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
